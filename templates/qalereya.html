@@ -105,7 +105,11 @@
                             
                         </li>
                         <li class="menu-item "><a href="{% url 'xidmetler'%}">XİDMƏTLƏR</a>
-                           
+                            <ul class="sub-menu">
+                                {% for xidmet in xidmetler %}
+                                <li class="menu-item"><a href="icons.html">{{xidmet.name}}</a></li>
+                                {% endfor %}
+                            </ul>
                         </li>
                         <li class="menu-item "><a href="{% url 'portfolio'%}">PORTFOLİO</a>
                            

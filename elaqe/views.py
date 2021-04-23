@@ -1,6 +1,10 @@
 from django.shortcuts import render
-
+from xidmetler.models import Xidmetler
 # Create your views here.
 
 def elaqe(request):
-    return render(request, "elaqe.html")
+    xidmetler = Xidmetler.objects.all()
+    context = {
+        "xidmetler": xidmetler
+    }
+    return render(request, "elaqe.html",context)

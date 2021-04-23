@@ -1,13 +1,16 @@
 from django.shortcuts import render
 from .models import Project, Category
+from xidmetler.models import Xidmetler
 # Create your views here.
 
 def portfolio(request):
     project_categories = Category.objects.all()
     projects = Project.objects.all()
+    xidmetler = Xidmetler.objects.all()
 
     context = {
         "project_categories": project_categories,
-        "projects": projects
+        "projects": projects,
+        "xidmetler": xidmetler
     }
     return render(request, "portfolio.html", context)
