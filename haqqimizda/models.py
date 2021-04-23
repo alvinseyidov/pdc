@@ -1,10 +1,9 @@
 from django.db import models
-from cloudinary.models import CloudinaryField
 from ckeditor.fields import RichTextField
 # Create your models here.
 
 class Gallery(models.Model):
-    image = CloudinaryField(blank=True, null=True)
+    image = models.ImageField(verbose_name='Şəkil', null=True, blank=True)
     
 
 class FAQ(models.Model):
@@ -18,4 +17,4 @@ class About(models.Model):
     description = RichTextField(verbose_name='Haqqında Ətraflı Məlumat', blank=True, null=True)
 
     def __str__(self):
-        return self.question
+        return self.question 
