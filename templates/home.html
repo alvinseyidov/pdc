@@ -464,8 +464,8 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                                         <div class="wprt-spacer" data-desktop="50" data-mobi="30" data-smobi="30"></div>
                                         {% for f in faq %}
                                         <div class="wprt-toggle {% if f.id == 2 %}active{% endif %} bg-white style-1">
-                                            <h3 class="toggle-title" style=" color: black; ">Employees have many years of experience</h3>
-                                            <div class="toggle-content">Lorem ipsum dolor sit amet, consectetur adipiscing elit. In a metus pellentesque, scelerisque ex sed, volutpat nisi. Curabitur tortor mi, eleifend ornare lobortis non. Nulla porta purus quis iaculis ultrices. Proin aliquam sem at nibh hendrerit sagittis. Nullam ornare odio eu lacus tincidunt malesuada. Sed eu vestibulum elit. Curabitur tortor mi, eleifend ornare.</div>
+                                            <h3 class="toggle-title" style=" color: black; ">{{f.question}}</h3>
+                                            <div class="toggle-content">{{f.answer}}</div>
                                         </div>
                                         {% endfor %}
                                         
