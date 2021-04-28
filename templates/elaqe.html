@@ -161,52 +161,52 @@
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <h2 class="text-center margin-bottom-20">GET IN TOUCH WITH US</h2>
+                                    <h2 class="text-center margin-bottom-20">Bizimlə Əlaqə</h2>
                                     <div class="wprt-lines style-2 custom-1">
                                         <div class="line-1"></div>
                                     </div>
 
                                     <div class="wprt-spacer" data-desktop="36" data-mobi="30" data-smobi="30"></div>
 
-                                    <p class="wprt-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.</p>
+                                    <p class="wprt-subtitle">Şikayət və təklifləriniz olarsa bizə yazmağa və ya bizimlə əlaqə saxlamağa çəkinməyin. Çayımızı içmək üçün ofisimizə belə gələ bilərsiniz.</p>
                                     <div class="wprt-spacer" data-desktop="40" data-mobi="30" data-smobi="30"></div>
                                 </div><!-- /.col-md-12 -->
 
                                 <div class="col-md-4">
-                                    <h5>Address</h5>
-                                    <p>68 Havemeyer St, Brooklyn, NY 11211<br> United States</p>
+                                    <h5>Ünvan</h5>
+                                    <p>Mərdanov qardaşları ev 5, mərtəbə 3 AZ1005 <br>Bakı, Azerbaijan</p>
 
                                     <div class="wprt-spacer" data-desktop="15" data-mobi="0" data-smobi="0"></div>
 
-                                    <h5>Phone number</h5>
-                                    <p>+1 718-955-2838 or +1 718-955-3290</p>
+                                    <h5>Əlaqə nömrəsi</h5>
+                                    <p>+994 (050/070) 899-01-10</p>
 
                                     <div class="wprt-spacer" data-desktop="15" data-mobi="0" data-smobi="0"></div>
 
-                                    <h5>E-mail address</h5>
-                                    <p>contact@construction.com</p>
+                                    <h5>E-mail ünvanı</h5>
+                                    <p>info@pdc.az</p>
 
                                     <div class="wprt-spacer" data-desktop="0" data-mobi="10" data-smobi="10"></div>
                                 </div><!-- /.col-md-4 -->
 
                                 <div class="col-md-8">
-                                    <form class="wprt-contact-form" method="post" action="./includes/contact/contact-process.php">
+                                    <form class="wprt-contact-form" method="post" action="#">
                                         <div class="inner">
                                             <div class="left-side">
                                                 <div class="input-wrap">
-                                                    <input type="text" value="" tabindex="1" placeholder="Name *" name="name" id="name" required>
+                                                    <input type="text" value="" tabindex="1" placeholder="Ad Soyad *" name="name" id="name" required>
                                                 </div>
                                                 <div class="input-wrap">
                                                     <input type="email" value="" tabindex="2" placeholder="Email *" name="email" id="email" required>
                                                 </div>
                                                 <div class="input-wrap">
-                                                    <input type="text" value="" tabindex="4" placeholder="Subject *" name="subject" id="subject" required>
+                                                    <input type="text" value="" tabindex="4" placeholder="Mövzu *" name="subject" id="subject" required>
                                                 </div>
                                                 <div class="message-wrap">
-                                                    <textarea class="" tabindex="5" placeholder="Message *" name="message" id="message" required></textarea>
+                                                    <textarea class="" tabindex="5" placeholder="Mesaj mətni *" name="message" id="message" required></textarea>
                                                 </div>
                                                 <div class="send-wrap">
-                                                    <input type="submit" value="SEND MESSAGE" id="submit" name="submit" class="submit">
+                                                    <input type="submit" value="Göndər" id="submit" name="submit" class="submit">
                                                 </div>
                                             </div>
                                         </div>
@@ -226,36 +226,23 @@
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="wprt-spacer" data-desktop="50" data-mobi="50" data-smobi="40"></div>
-
+                                        <style>
+                                        
+                                        .partnyor {
+                                            filter: grayscale(100%);
+                                            }
+                                        .partnyor:hover {
+                                            filter: grayscale(0%);
+                                            }
+                                            </style>
                                     <div class="wprt-partners">
                                         <div class="owl-carousel">
+                                            {%for partnyor in partnyorlar %}
                                             <div class="partner">
-                                                <a target="_blank" href="#"><img src="{% static 'img/partners/1.png' %}" alt="image" /></a>
+                                                <a target="_blank" href="#"><img class="partnyor" src="{{partnyor.image.url}}" alt="image" /></a>
                                             </div>
-
-                                            <div class="partner">
-                                                <a target="_blank" href="#"><img src="{% static 'img/partners/2.png' %}" alt="image" /></a>
-                                            </div>
-
-                                            <div class="partner">
-                                                <a target="_blank" href="#"><img src="{% static 'img/partners/3.png' %}" alt="image" /></a>
-                                            </div>
-
-                                            <div class="partner">
-                                                <a target="_blank" href="#"><img src="{% static 'img/partners/4.png' %}" alt="image" /></a>
-                                            </div>
-
-                                            <div class="partner">
-                                                <a target="_blank" href="#"><img src="{% static 'img/partners/5.png' %}" alt="image" /></a>
-                                            </div>
-
-                                            <div class="partner">
-                                                <a target="_blank" href="#"><img src="{% static 'img/partners/1.png' %}" alt="image" /></a>
-                                            </div>
-
-                                            <div class="partner">
-                                                <a target="_blank" href="#"><img src="{% static 'img/partners/2.png' %}" alt="image" /></a>
-                                            </div>
+                                            {% endfor %}
+                                           
                                         </div>
                                     </div><!-- /.wprt-partners -->
 

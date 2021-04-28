@@ -183,7 +183,7 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                 <div class="page-content">
                     
                     <!-- WORKS -->
-                    <section id="works" class="wprt-section" style=" background: #18191b; color: white;"> 
+                    <section id="works" class="wprt-section" style=" background: #18191b; color: white; padding-bottom: 31px;"> 
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
@@ -435,14 +435,22 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="wprt-spacer" data-desktop="50" data-mobi="50" data-smobi="40"></div>
-
+                             <style>
+                                        
+                                        .partnyor {
+                                            filter: grayscale(100%);
+                                            }
+                                        .partnyor:hover {
+                                            filter: grayscale(0%);
+                                            }
+                                            </style>
                                     <div class="wprt-partners">
                                         <div class="owl-carousel">
 
                                             {% for partnyor in partnyorlar %}
 
                                             <div class="partner">
-                                                <a target="_blank" href="#"><img src="{{partnyor.image.url}}" alt="image" /></a>
+                                                <a target="_blank" href="#"><img class="partnyor" src="{{partnyor.image.url}}" alt="image" /></a>
                                             </div>
                                             {% endfor %}
                                             
