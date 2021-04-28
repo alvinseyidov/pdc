@@ -5,7 +5,9 @@ from ckeditor.fields import RichTextField
 class Gallery(models.Model):
     image = models.ImageField(verbose_name='Şəkil', null=True, blank=True)
     
-
+class Partnyorlar(models.Model):
+    image = models.ImageField(verbose_name='Şəkil', null=True, blank=True)
+ 
 class FAQ(models.Model):
     question = models.CharField(verbose_name='Sual', max_length=1000, null=True, blank=True)
     answer = models.CharField(verbose_name='Cavab', max_length=1000, null=True, blank=True)
