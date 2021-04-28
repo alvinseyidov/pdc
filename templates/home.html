@@ -250,16 +250,16 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                     </section>
 
                     <!-- Intro -->
-                    <section class="wprt-section intro" style=" background: #18191b; color: white;">
+                    <!--  <section class="wprt-section intro" style=" background: #18191b; color: white;">
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="wprt-spacer" data-desktop="110" data-mobi="40" data-smobi="40"></div>
                                 </div><!-- /.col-md-12 -->
-                                {% for xidmet in xidmetler %}
+                              <!--    {% for xidmet in xidmetler %}
                                 <div class="col-md-4">
 
-                                    <div class="service-item clearfix text-center">
+                                   <!--   <div class="service-item clearfix text-center">
                                         <div class="thumb"><img style=" height: 259px; " src="{{xidmet.image.url}}" alt="image" /></div>
                                         <div class="service-item-wrap">
                                             <h3 class="title font-size-18"><a href="#">{{xidmet.name}}</a></h3>
@@ -272,15 +272,15 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
 
                                     <div class="wprt-spacer" data-desktop="0" data-mobi="40" data-smobi="40"></div>
                                 </div><!-- /.col-md-4 -->
-                            {% endfor %}
+                           <!--   {% endfor %}
                                 
 
                                 <div class="col-md-12">
                                     <div class="wprt-spacer" data-desktop="110" data-mobi="40" data-smobi="40"></div>
                                 </div><!-- /.col-md-12 -->
-                            </div><!-- /.row -->
-                        </div><!-- /.container -->
-                    </section>
+                           <!--   </div><!-- /.row -->
+                       <!--   </div><!-- /.container -->
+                    <!--  </section>-->
 
                     
 
@@ -291,80 +291,31 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                             <div class="row">
                                 <div class="col-md-12">
                                     <div class="wprt-spacer" data-desktop="100" data-mobi="40" data-smobi="40"></div>
-                                    <h2 class="text-center margin-bottom-20">WHAT WE OFFER</h2>
+                                    <h2 class="text-center margin-bottom-20">XİDMƏTLƏRİMİZ</h2>
                                     <div class="wprt-lines style-2 custom-1">
                                         <div class="line-1"></div>
                                     </div>
 
                                     <div class="wprt-spacer" data-desktop="36" data-mobi="30" data-smobi="30"></div>
 
-                                    <p class="wprt-subtitle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sit amet iaculis elit. Nam semper ut arcu non placerat. Praesent nibh massa varius.</p>
+                                    <p class="wprt-subtitle">Peşəkar komanda ilə şirkətimiz qısa müddətdə sizin ağlınızdakı ideyaları həyata keçirmək üçün sizin xidmətinizdəyik.</p>
                                     <div class="wprt-spacer" data-desktop="40" data-mobi="30" data-smobi="30"></div>
                                 </div><!-- /.col-md-12 -->
 
+
+                                    {% for xidmet in xidmetler %}
                                 <div class="col-md-2">
                                     <div class="wprt-icon-text">
                                         <div class="icon">
-                                            <i class="icon-o-helmet"></i>
+                                            <img style=" width: 74px; " src="{{xidmet.iconimage.url}}">
                                         </div>
-                                        <h3><a href="#">CONSTRUCTION</a></h3>
+                                        <h3><a href="#">{{xidmet.name}}</a></h3>
                                     </div>
 
                                     <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
                                 </div>
 
-                                <div class="col-md-2">
-                                    <div class="wprt-icon-text">
-                                        <div class="icon">
-                                            <i class="icon-o-paint-roller"></i>
-                                        </div>
-                                        <h3><a href="#">RENOVATION</a></h3>
-                                    </div>
-
-                                    <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
-                                </div>
-
-                                <div class="col-md-2">
-                                    <div class="wprt-icon-text">
-                                        <div class="icon">
-                                            <i class="icon-o-ruler-2"></i>
-                                        </div>
-                                        <h3><a href="#">CONSULTING</a></h3>
-                                    </div>
-
-                                    <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
-                                </div>
-
-                                <div class="col-md-2">
-                                    <div class="wprt-icon-text">
-                                        <div class="icon">
-                                            <i class="icon-o-tools-1"></i>
-                                        </div>
-                                        <h3><a href="#">CONSTRUCT</a></h3>
-                                    </div>
-
-                                    <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
-                                </div>
-
-                                <div class="col-md-2">
-                                    <div class="wprt-icon-text">
-                                        <div class="icon">
-                                            <i class="icon-o-drawing-1"></i>
-                                        </div>
-                                        <h3><a href="#">ARCHITECTURE</a></h3>
-                                    </div>
-
-                                    <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
-                                </div>
-
-                                <div class="col-md-2">
-                                    <div class="wprt-icon-text">
-                                        <div class="icon">
-                                            <i class="icon-o-light-bulb-1"></i>
-                                        </div>
-                                        <h3><a href="#">ELECTRICAL</a></h3>
-                                    </div>
-                                </div>
+                                {% endfor %}
 
                                 <div class="col-md-4">
                                     <div class="wprt-spacer" data-desktop="118" data-mobi="80" data-smobi="50"></div>
