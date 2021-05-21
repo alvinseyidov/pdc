@@ -48,11 +48,66 @@
     a {
     text-decoration: none !important;
 }
+
+#loader, #loader2, #loader3 {
+    width: 100%;
+    height: 100%;
+    position: fixed;
+    background-color: #262626;
+    z-index: 999999;
+    top: 0;
+}
+#loader .loader-item, #loader2 .loader-item, #loader3 .loader-item {
+    position: absolute;
+    width: auto;
+    height: 100%;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    -webkit-transform: translate(-50%, -10%);
+    -ms-transform: translate(-50%, -10%);
+    transform: translate(-50%, -10%);
+}
+#loader .loader-item img, #loader2 .loader-item img, #loader3 .loader-item img {
+    display: block;
+}
+#loader .spinner, #loader2 .spinner, #loader3 .spinner {
+    margin: 40px auto 0;
+    width: 70px;
+    text-align: center;
+}
+#loader .spinner .bounce1, #loader2 .spinner .bounce1, #loader3 .spinner .bounce1 {
+    -webkit-animation-delay: -.32s;
+    animation-delay: -.32s;
+}
+#loader .spinner>div, #loader2 .spinner>div, #loader3 .spinner>div {
+    width: 18px;
+    height: 18px;
+    background-color: #c59d5f;
+    border-radius: 100%;
+    display: inline-block;
+    -webkit-animation: bouncedelay 1.4s infinite ease-in-out;
+    animation: bouncedelay 1.4s infinite ease-in-out;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+}
+#loader .spinner .bounce2, #loader2 .spinner .bounce2, #loader3 .spinner .bounce2 {
+    -webkit-animation-delay: -.16s;
+    animation-delay: -.16s;
+}
     </style>
 </head>
 
 <body class="front-page no-sidebar site-layout-full-width menu-has-cart header-sticky header-style-5">
-<div id="top"></div>
+
+    <div id="loader">
+        <div class="loader-item"> <img src="{% static '/img/logo-light@2x.png'%}" alt="">
+          <div class="spinner">
+            
+          </div>
+        </div>
+      </div>
+    <div id="top"></div>
 
 <div id="wrapper" class="animsition">
 <div id="page" class="clearfix">
@@ -75,6 +130,8 @@
                             <a href="https://www.facebook.com/PremiumDestiny/" title="Facebook" target="_blank"><span class="fa fa-facebook" aria-hidden="true"></span></a>
                             <a href="https://www.instagram.com/pdc.az/" title="Instagram" target="_blank"><span class="fa fa-instagram" aria-hidden="true"></span></a>
                             <a href="https://wa.link/tgzyc8" title="Whatsapp" target="_blank"><span class="fa fa-whatsapp" aria-hidden="true"></span></a>
+                            <a href="https://www.youtube.com/channel/UCkZwZLRoOcsplbltP-SqaKQ" title="Youtube" target="_blank"><span class="fa fa-youtube" aria-hidden="true"></span></a>
+                            <a href="https://www.linkedin.com/in/nurlan-veliyev-a53a0a169/" title="Linkedin" target="_blank"><span class="fa fa-linkedin" aria-hidden="true"></span></a>
                             <a href="mailto:office@pdc.az" title="Email" target="_blank"><span class="fa fa-envelope" aria-hidden="true"></span></a>
                         </span>
                     </div>
@@ -440,6 +497,6 @@
 <script type="text/javascript" src="{% static 'rev-slider/js/extensions/revolution.extension.parallax.min.js' %}"></script>
 <script type="text/javascript" src="{% static 'rev-slider/js/extensions/revolution.extension.slideanims.min.js' %}"></script>
 <script type="text/javascript" src="{% static 'rev-slider/js/extensions/revolution.extension.video.min.js' %}"></script>
-
+<script type="text/javascript" src="{% static 'js/main2.js' %}"></script>
 </body>
 </html>
