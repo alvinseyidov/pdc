@@ -29,6 +29,7 @@ urlpatterns = [
     path('', include('home.urls')),
     path('haqqimizda/', haqqimizda.haqqimizda, name='haqqimizda'),
     path('xidmetler/', xidmetler.xidmetler, name='xidmetler'),
+    path('xidmetler/<int:id>', xidmetler.xidmetlerdetail, name='xidmetlerdetail'),
     path('portfolio/', portfolio.portfolio, name='portfolio'),
     path('portfolio/<int:id>', portfolio.portfoliodetail, name='portfolio-detail'),
     path('qalereya/', qalereya.qalereya, name='qalereya'),

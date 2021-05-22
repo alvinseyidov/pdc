@@ -20,3 +20,9 @@ class About(models.Model):
 
     def __str__(self):
         return self.question 
+
+class Hashtag(models.Model):
+    tag = models.CharField(verbose_name='Tag', max_length=1000, null=True, blank=True)
+
+    def __str__(self):
+        return self.tag         

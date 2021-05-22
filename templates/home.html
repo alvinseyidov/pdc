@@ -379,7 +379,7 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                                         <div class="icon">
                                             <img style=" width: 74px; " src="{{xidmet.iconimage.url}}">
                                         </div>
-                                        <h3><a href="#">{{xidmet.name}}</a></h3>
+                                        <h3><a href="{% url 'xidmetlerdetail' xidmet.id %}">{{xidmet.name}}</a></h3>
                                     </div>
 
                                     <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
@@ -504,8 +504,14 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
+                                    
                                     <div class="wprt-spacer" data-desktop="50" data-mobi="50" data-smobi="40"></div>
-                             <style>
+                             
+                                    <h2 class="text-center margin-bottom-20">Partnyorlarımız</h2>
+                                    <div class="wprt-lines style-2 custom-1">
+                                        <div class="line-1"></div>
+                                    </div><br><br>
+                                        <style>
                                         
                                         .partnyor {
                                             filter: grayscale(100%);
@@ -516,6 +522,11 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                                             </style>
                                     <div class="wprt-partners">
                                         <div class="owl-carousel">
+                                            <style>
+                                                .owl-item{
+                                                    width: 220px !important;
+                                                }
+                                            </style>
 
                                             {% for partnyor in partnyorlar %}
 
@@ -564,17 +575,10 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                 <div class="widget widget_tag_cloud">
                     <h2 class="widget-title">Heşteqlər</h2>
                     <div class="tagcloud">
-                        <a href="#">Smeta</a>
-                        <a href="#">Cam balkon</a>
-                        <a href="#">Duş kabin</a>
-                        <a href="#">Fasad</a>
-                        <a href="#">Tikinti-təmir</a>
-                        <a href="#">Mərmər</a>
-                        <a href="#">Dizayn</a>
-                        <a href="#">Planlama</a>
-                        <a href="#">Metal-qaynaq</a>
-                        <a href="#">Tent-pergola</a>
-                        <a href="#">Sürgülü sistem</a>
+                        {% for tag in hashtaglar %}
+                        <a href="javascript:void(0);">{{tag.tag}}</a>
+                        {% endfor %}
+                        
                     </div>
                 </div>
             </div>
