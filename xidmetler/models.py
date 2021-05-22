@@ -10,3 +10,14 @@ class Xidmetler(models.Model):
    
     def __str__(self):
         return self.name
+
+
+class XidmetlerAltKateqoriya(models.Model):
+    name = models.CharField(verbose_name='Xidmet adı', max_length=256, null=True, blank=True)
+    category = models.OneToOneField(Xidmetler,verbose_name='Kateqoriya',  related_name='projects',on_delete=models.CASCADE)
+    iconimage = models.ImageField(verbose_name='Icon', null=True, blank=True)
+    image = models.ImageField(verbose_name='Şəkil', null=True, blank=True)
+    description = RichTextField(verbose_name='Haqqında Ətraflı Məlumat', blank=True, null=True)
+   
+    def __str__(self):
+        return self.name

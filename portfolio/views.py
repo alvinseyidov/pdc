@@ -14,3 +14,13 @@ def portfolio(request):
         "xidmetler": xidmetler
     }
     return render(request, "portfolio.html", context)
+
+
+def portfoliodetail(request, id):
+    project = Project.objects.filter(id=id)
+    xidmetler = Xidmetler.objects.all()
+
+    context = {
+        "project": project
+    }
+    return render(request, "portfolio-detail.html", context)
