@@ -243,7 +243,7 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                         <div class="container">
                             <div class="row">
                                 <div class="col-md-12">
-                                    <div class="wprt-spacer" data-desktop="100" data-mobi="40" data-smobi="40"></div>
+                                     <div class="wprt-spacer" data-desktop="100" data-mobi="40" data-smobi="40"></div>
 
                                     <h2 class="text-center margin-bottom-20">İşlərimiz</h2>
                                     <div class="wprt-lines style-2 custom-1">
@@ -261,10 +261,10 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                                 <div data-filter="*" class="cbp-filter-item">
                                     <span>Hamısı</span>
                                 </div>
-                                {% for category in project_categories %}
+                                {% for xidmet in xidmetler %}
                                 
-                                <div data-filter=".catfilter{{category.id}}" class="cbp-filter-item">
-                                    <span>{{category.name}}</span>
+                                <div data-filter=".catfilter{{xidmet.id}}" class="cbp-filter-item">
+                                    <span>{{xidmet.name}}</span>
                                 </div>
                                 {% endfor %}
                                 

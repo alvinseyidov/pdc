@@ -53,19 +53,20 @@
             <div class="top-bar-inner-wrap">
                 <div class="top-bar-content">
                     <span id="top-bar-text">
-                        <i class="fa fa-map-marker"></i>1 Beverly Hills, Los Angeles, CA, 90210, United States
-                        <i class="fa fa-phone"></i>+1 (718) 379 3368
+                        <i class="fa fa-map-marker"></i>Mərdanov qardaşları ev 5, mərtəbə 3 AZ1005 Bakı, Azerbaijan
+                        <i class="fa fa-phone"></i>+994 (050/070) 899-01-10
                     </span><!-- /#top-bar-text -->
                 </div><!-- /.top-bar-content -->
 
                 <div class="top-bar-socials">
                     <div class="inner">
                         <span class="icons">
-                            <a href="#" title="Twitter"><span class="fa fa-twitter" aria-hidden="true"></span></a>
-                            <a href="#" title="Facebook"><span class="fa fa-facebook" aria-hidden="true"></span></a>
-                            <a href="#" title="Google Plus"><span class="fa fa-google-plus" aria-hidden="true"></span></a>
-                            <a href="#" title="Pinterest"><span class="fa fa-pinterest" aria-hidden="true"></span></a>
-                            <a href="#" title="Dribbble"><span class="fa fa-dribbble" aria-hidden="true"></span></a>
+                            <a href="https://www.facebook.com/PremiumDestiny/" title="Facebook" target="_blank"><span class="fa fa-facebook" aria-hidden="true"></span></a>
+                            <a href="https://www.instagram.com/pdc.az/" title="Instagram" target="_blank"><span class="fa fa-instagram" aria-hidden="true"></span></a>
+                            <a href="https://wa.link/tgzyc8" title="Whatsapp" target="_blank"><span class="fa fa-whatsapp" aria-hidden="true"></span></a>
+                            <a href="https://www.youtube.com/channel/UCkZwZLRoOcsplbltP-SqaKQ" title="Youtube" target="_blank"><span class="fa fa-youtube" aria-hidden="true"></span></a>
+                            <a href="https://www.linkedin.com/in/nurlan-veliyev-a53a0a169/" title="Linkedin" target="_blank"><span class="fa fa-linkedin" aria-hidden="true"></span></a>
+                            <a href="mailto:office@pdc.az" title="Email" target="_blank"><span class="fa fa-envelope" aria-hidden="true"></span></a>
                         </span>
                     </div>
                 </div><!-- /.top-bar-socials -->
@@ -89,53 +90,25 @@
 
                 <nav id="main-nav" class="main-nav">
                     <ul class="menu">
-                        <li class="menu-item menu-item-has-children"><a href="home-revolution-slider-full-screen.html">Home</a>
+                        <li class="menu-item  "><a href="{% url 'home'%}">ANA SƏHİFƏ</a>
+                            
+                        </li>
+                        <li class="menu-item "><a href="{% url 'haqqimizda'%}">Haqqımızda</a>
+                            
+                        </li>
+                        <li class="menu-item menu-item-has-children "><a href="{% url 'xidmetler'%}">XİDMƏTLƏR</a>
                             <ul class="sub-menu">
-                                <li class="menu-item"><a href="home-hero-slideshow.html">Slideshow Fullscreen</a></li>
-                                <li class="menu-item"><a href="home-revolution-slider-full-screen.html">Revolution Fullscreen</a></li>
-                                <li class="menu-item"><a href="home-revolution-slider-simple.html">Revolution Simple</a></li>
-                                <li class="menu-item"><a href="one-page-hero-slideshow.html">One-page Slideshow</a></li>
+                                {% for xidmet in xidmetler %}
+                                <li class="menu-item"><a href="icons.html">{{xidmet.name}}</a></li>
+                                {% endfor %}
                             </ul>
                         </li>
-                        <li class="menu-item menu-item-has-children"><a href="#">Pages</a>
-                            <ul class="sub-menu">
-                                <li class="menu-item"><a href="page-contact.html">Contact</a></li>
-                                <li class="menu-item"><a href="page-about.html">About Us</a></li>
-                                <li class="menu-item"><a href="page-about-2.html">About Us 2</a></li>
-                                <li class="menu-item"><a href="page-about-3.html">About Us 3</a></li>
-                                <li class="menu-item"><a href="page-services.html">Services</a></li>
-                                <li class="menu-item"><a href="page-services-2.html">Services 2</a></li>
-                                <li class="menu-item"><a href="page-service-detail.html">Service Detail</a></li>
-                                <li class="menu-item"><a href="page-shop.html">Shop</a></li>
-                                <li class="menu-item"><a href="page-shop-single.html">Shop Single</a></li>
-                                <li class="menu-item"><a href="page-shop-cart.html">Shop Cart</a></li>
-                                <li class="menu-item"><a href="blog-single.html">Blog Single</a></li>
-                            </ul>
+                        <li class="menu-item current-menu-item"><a href="{% url 'portfolio'%}">PORTFOLİO</a>
+                           
                         </li>
-                        <li class="menu-item menu-item-has-children"><a href="#">Elements</a>
-                            <ul class="sub-menu">
-                                <li class="menu-item"><a href="icons.html">Icons</a></li>
-                                <li class="menu-item"><a href="buttons.html">Buttons</a></li>
-                                <li class="menu-item"><a href="toggles.html">Toggles</a></li>
-                                <li class="menu-item"><a href="typography.html">Typography</a></li>
-                                <li class="menu-item"><a href="galleries.html">Galleries</a></li>
-                                <li class="menu-item"><a href="iconboxs.html">IconBoxs</a></li>
-                            </ul>
-                        </li>
-                        <li class="menu-item menu-item-has-children current-menu-item"><a href="#">Portfolio</a>
-                            <ul class="sub-menu">
-                                <li class="menu-item"><a href="page-portfolio-grid.html">Grid</a></li>
-                                <li class="menu-item"><a href="page-portfolio-grid-fullwidth.html">Grid Full-Width</a></li>
-                                <li class="menu-item"><a href="page-portfolio-slider.html">Slider</a></li>
-                                <li class="menu-item"><a href="page-portfolio-slider-fullwidth.html">Slider Full-Width</a></li>
-                                <li class="menu-item"><a href="page-project-detail.html">Project Detail 1</a></li>
-                                <li class="menu-item"><a href="page-project-detail-2.html">Project Detail 2</a></li>
-                                <li class="menu-item"><a href="page-project-detail-3.html">Project Detail 3</a></li>
-                                <li class="menu-item"><a href="page-project-detail-4.html">Project Detail 4</a></li>                               
-                            </ul>
-                        </li>
-                        <li class="menu-item"><a href="blog.html">Blog</a></li>
-                        <li class="menu-item"><a href="page-contact.html">Contact</a></li>
+                        <li class="menu-item"><a href="{% url 'qalereya'%}">Qalereya</a></li>
+                        <li class="menu-item"><a href="{% url 'yenilikler'%}">YENİLİKLƏR</a></li>
+                        <li class="menu-item"><a href="{% url 'elaqe'%}">Əlaqə</a></li>
                     </ul>
                 </nav><!-- /#main-nav -->
 
@@ -149,65 +122,7 @@
                     </form>
                 </div><!-- /#header-search -->
 
-                <div class="nav-top-cart-wrapper">
-                    <a class="nav-cart-trigger" href="#">
-                        <span class="fa fa-shopping-cart cart-icon">
-                            <span class="shopping-cart-items-count">3</span>
-                        </span>
-                    </a>
-
-                    <div class="nav-shop-cart">
-                        <div class="widget_shopping_cart_content">
-                            <ul class="cart_list product_list_widget ">
-                                <li class="mini_cart_item">
-                                    <a href="#" class="remove" title="Remove this item">×</a>
-                                    <a href="#">
-                                        <img width="160" height="160"src="{% static 'img/shop-item.png' %}" alt="image">
-                                        Shop Item 01
-                                    </a>
-                                                
-                                    <span class="quantity">1 × <span class="woocommerce-Price-amount amount">
-                                        <span class="woocommerce-Price-currencySymbol">$</span>200.00</span>
-                                    </span>
-                                </li>
-                                <li class="mini_cart_item">
-                                    <a href="#" class="remove" title="Remove this item">×</a>
-                                    <a href="#">
-                                        <img width="160" height="160"src="{% static 'img/shop-item.png' %}" alt="image">
-                                        Shop Item 02
-                                    </a>
-                                                
-                                    <span class="quantity">1 × <span class="woocommerce-Price-amount amount">
-                                        <span class="woocommerce-Price-currencySymbol">$</span>70.00</span>
-                                    </span>
-                                </li>
-                                <li class="mini_cart_item">
-                                    <a href="#" class="remove" title="Remove this item">×</a>
-                                    <a href="#">
-                                        <img width="160" height="160"src="{% static 'img/shop-item.png' %}" alt="image">
-                                        Shop Item 03
-                                    </a>
-                                                
-                                    <span class="quantity">1 × <span class="woocommerce-Price-amount amount">
-                                        <span class="woocommerce-Price-currencySymbol">$</span>30.00</span>
-                                    </span>
-                                </li>
-                            </ul><!-- /.product_list_widget -->
-
-                            <p class="total">
-                                <strong>Subtotal:</strong>
-                                <span class="woocommerce-Price-amount amount">
-                                    <span class="woocommerce-Price-currencySymbol">$</span>300.00
-                                </span>
-                            </p>
-        
-                            <p class="buttons">
-                                <a href="#" class="wprt-button small">View Cart</a>
-                                <a href="#" class="wprt-button small checkout">Checkout</a>
-                            </p>
-                        </div>
-                    </div>
-                </div><!-- /.nav-top-cart-wrapper -->
+               
             </div>
         </div><!-- /#site-header-inner -->
     </header><!-- /#site-header -->
@@ -216,16 +131,16 @@
 <!-- Featured Title -->
 <div id="featured-title" class="clearfix featured-title-left">
     <div id="featured-title-inner" class="container clearfix">
-        <div class="featured-title-inner-wrap">
+        <div class="featured-title-inner-wrap" style="padding: 11px 0;">
             <div class="featured-title-heading-wrap">
-                <h1 class="featured-title-heading">Portfolio Detail</h1>
+                <h1 class="featured-title-heading">{{project.name}}</h1>
             </div>
             <div id="breadcrumbs">
                 <div class="breadcrumbs-inner">
                     <div class="breadcrumb-trail">
-                        <a href="#" title="Construction" rel="home" class="trail-begin">Home</a>
+                        <a href="#" title="Construction" rel="home" class="trail-begin">Ana səhifə</a>
                         <span class="sep">/</span>
-                        <span class="trail-end">Portfolio Detail</span>
+                        <span class="trail-end">{{project.name}}</span>
                     </div>
                 </div>
             </div>
@@ -250,41 +165,23 @@
                                     <div class="wprt-galleries galleries w-770px" data-width="142" data-margin="15">
                                         <div id="wprt-slider" class="flexslider">
                                             <ul class="slides">
-                                                <li class="flex-active-slide">
-                                                    <a class="zoom" href="{% static 'img/gallery/1-b.jpg' %}""><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="{% static 'img/gallery/1-b.jpg' %}"" alt="image" />
-                                                </li>
 
+                                                {% for img in project.sekiller.all %}
                                                 <li class="flex-active-slide">
-                                                    <a class="zoom" href="{% static 'img/gallery/2-b.jpg' %}""><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="{% static 'img/gallery/2-b.jpg' %}"" alt="image" />
+                                                    <a class="zoom" href="{{img.images.url}}"><i class="fa fa-arrows-alt"></i></a>
+                                                    <img src="{{img.images.url}}" alt="image" style=" height: 500px; width: auto;margin: auto; " />
                                                 </li>
-
-                                                <li class="flex-active-slide">
-                                                    <a class="zoom" href="{% static 'img/gallery/3-b.jpg' %}""><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="{% static 'img/gallery/3-b.jpg' %}"" alt="image" />
-                                                </li>
-
-                                                <li class="flex-active-slide">
-                                                    <a class="zoom" href="{% static 'img/gallery/4-b.jpg' %}""><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="{% static 'img/gallery/4-b.jpg' %}"" alt="image" />
-                                                </li>
-
-                                                <li class="flex-active-slide">
-                                                    <a class="zoom" href="{% static 'img/gallery/1-b.jpg' %}""><i class="fa fa-arrows-alt"></i></a>
-                                                    <img src="{% static 'img/gallery/1-b.jpg' %}"" alt="image" />
-                                                </li>
+                                                {% endfor %}
+                                                
                                             </ul>
                                         </div>
 
                                         <div id="wprt-carousel" class="flexslider">
                                             <ul class="slides">
-                                                <li><img src="{% static 'img/gallery/1-s.jpg' %}"" alt="image"></li>
-                                                <li><img src="{% static 'img/gallery/2-s.jpg' %}"" alt="image"></li>
-                                                <li><img src="{% static 'img/gallery/3-s.jpg' %}"" alt="image"></li>
-                                                <li><img src="{% static 'img/gallery/4-s.jpg' %}"" alt="image"></li>
-                                                <li><img src="{% static 'img/gallery/1-s.jpg' %}"" alt="image"></li>
-                                            </ul>
+                                                {% for img in project.sekiller.all %}
+                                                <li><img src="{{img.images.url}}" alt="image"></li>
+                                                {% endfor %}
+                                               </ul>
                                         </div>
                                     </div>
                                 </div><!-- /.col-md-8 -->
@@ -292,7 +189,17 @@
                                 <div class="col-md-4">
                                     <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
 
-                                    <h4 class="line-height-normal margin-bottom-10">PROJECT DESCRIPTION</h4>
+                                    <h4 class="line-height-normal margin-bottom-10"></h4>
+                                    
+                                    <ul class="wprt-list style-2 accent-color margin-top-30 margin-bottom-30">
+                                        
+                                        {%for cat in project.category.all%}
+                                        <li><strong>{{cat.name}}</strong></li>
+                                        {% endfor %}
+                                    </ul>
+                                    <br>
+                                    <h4 class="line-height-normal margin-bottom-10">Haqqında</h4>
+                                     
                                     <div class="wprt-lines style-1 custom-3">
                                         <div class="line-1"></div>
                                         <div class="line-2"></div>
@@ -300,21 +207,14 @@
 
                                     <div class="wprt-spacer" data-desktop="25" data-mobi="25" data-smobi="25"></div>
 
-                                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque nec erat erat. Integer blandit nulla quis fermentum hendrerit. Vestibulum eu libero volutpat, portas quam acc, tempus sem. Donec sodales quam id lorem lobortis, vitae. </p>
-                                    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Quisque nec erat erat. Integer blandit nulla quis fermentum hendrerit.</p>
-
+                                    <p> {{project.description | safe}}</p>
+                                    
                                     <div class="wprt-lines style-1 custom-4">
                                         <div class="line-1"></div>
                                     </div>
 
-                                    <ul class="wprt-list style-2 accent-color margin-top-30 margin-bottom-30">
-                                        <li><strong>Client:</strong> ThemeForest Builder</li>
-                                        <li><strong>Architect:</strong> Richardson and Sandra</li>
-                                        <li><strong>Builder:</strong> GraphicRiver Builder Corporate</li>
-                                        <li><strong>Budget:</strong> $1 250 000,00</li>
-                                    </ul>
-
-                                    <a href="#" class="wprt-button small rounded-3px">LIVE PREVIEW</a>
+                                     <br>               
+                                    <a href="https://api.whatsapp.com/send?phone=994508990110&text=Salam%20..." class="wprt-button small rounded-3px">Qiymət Təklifi Al</a>
                                 </div><!-- /.col-md-4 -->
 
                                 <div class="col-md-12">

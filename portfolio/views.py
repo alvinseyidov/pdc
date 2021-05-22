@@ -17,10 +17,10 @@ def portfolio(request):
 
 
 def portfoliodetail(request, id):
-    project = Project.objects.filter(id=id)
+    project = Project.objects.get(pk=id)
     xidmetler = Xidmetler.objects.all()
 
     context = {
-        "project": project
+        "project": project 
     }
     return render(request, "portfolio-detail.html", context)

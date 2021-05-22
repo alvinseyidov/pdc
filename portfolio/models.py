@@ -20,3 +20,12 @@ class Project(models.Model):
     
     def __str__(self):
         return self.name
+
+
+class Images(models.Model):
+    project = models.ForeignKey(Project, on_delete=models.CASCADE, related_name='sekiller')
+    images = models.ImageField(verbose_name='Şəkil', null=True, blank=True)
+
+    def __str__(self):
+        return self.project.name + ' şəkilləri'
+    
