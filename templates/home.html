@@ -270,14 +270,14 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                                 
                                 
                             </div><!-- /#project-filter -->
-
+                            <style>
+                                .cbp .cbp-item{
+                                    height: 228px !important;
+                                }
+                            </style>
                             <div id="projects" class="cbp">
                                {% for project in projects %}
-                               <style>
-                                   .cbp .cbp-item{
-                                       height: 228px !important;
-                                   }
-                               </style>
+                               
                                 <div class="cbp-item building {% for category in project.category.all %}catfilter{{category.id}} {% endfor %} workspace" style="width: 337px;height: 228px;left: 0px;">
                                     <div class="project-item">
                                         <div class="inner">
