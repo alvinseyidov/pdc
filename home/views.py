@@ -1,7 +1,9 @@
+from yenilikler.models import Yenilikler
 from django.shortcuts import render
 from portfolio.models import Category, Project
 from haqqimizda.models import FAQ,Partnyorlar, Hashtag
 from xidmetler.models import Xidmetler
+from yenilikler.models import *
 
 # Create your views here.
 
@@ -13,6 +15,7 @@ def home(request):
     xidmetler = Xidmetler.objects.all()
     partnyorlar = Partnyorlar.objects.all()
     hashtaglar = Hashtag.objects.all()
+    yenilikler = Yenilikler.objects.all()
 
     context = {
         "project_categories": project_categories,
@@ -20,6 +23,7 @@ def home(request):
         "faq": faq,
         "xidmetler": xidmetler,
         "partnyorlar": partnyorlar,
-        "hashtaglar": hashtaglar
+        "hashtaglar": hashtaglar,
+        "yenilikler": yenilikler
     }
     return render(request, "home.html", context)

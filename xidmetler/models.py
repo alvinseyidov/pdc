@@ -21,3 +21,10 @@ class XidmetlerAltKateqoriya(models.Model):
    
     def __str__(self):
         return self.name
+
+class Images(models.Model):
+    xidmet = models.ForeignKey(Xidmetler, on_delete=models.CASCADE, related_name='sekiller')
+    images = models.ImageField(verbose_name='Şəkil', null=True, blank=True)
+
+    def __str__(self):
+        return self.xidmet.name + ' şəkilləri'
