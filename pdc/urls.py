@@ -34,6 +34,7 @@ urlpatterns = [
     path('portfolio/<int:id>', portfolio.portfoliodetail, name='portfolio-detail'),
     path('qalereya/', qalereya.qalereya, name='qalereya'),
     path('yenilikler/', yenilikler.yenilikler, name='yenilikler'),
+    path('yenilikler/<int:id>/', yenilikler.yeniliklerdetail, name='yeniliklerdetail'),
     path('elaqe/', elaqe.elaqe, name='elaqe'),
 
 ]

@@ -36,6 +36,7 @@
     <!--[if lt IE 9]>
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js' %}"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js' %}"></script>
+
     <![endif]-->
     <style>
         a {
@@ -89,6 +90,18 @@
         animation-delay: -.16s;
     }
         </style>
+
+
+    <!-- Slick Slider CSS -->
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel/slick/slick.css"/>
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/slick-carousel/slick/slick-theme.css"/>
+
+    <!-- jQuery (Required for Slick.js) -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+
+<!-- Slick Slider JS -->
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel/slick/slick.min.js"></script>
+
 </head>
 
 <body class="page sidebar-left header-style-1 menu-has-search menu-has-cart">
@@ -156,7 +169,7 @@
                              <li class="menu-item menu-item-has-children current-menu-item"><a href="{% url 'xidmetler'%}">XİDMƏTLƏR</a>
                             <ul class="sub-menu">
                                     {% for xidmet in xidmetler %}
-                                    <li class="menu-item"><a href="icons.html">{{xidmet.name}}</a></li>
+                                    <li class="menu-item"><a href="{% url 'xidmetlerdetail' xidmet.id%}">{{xidmet.name}}</a></li>
                                     {% endfor %}
                                 </ul>
                                
@@ -198,82 +211,72 @@
 
 <!-- Main Content -->
 <div id="main-content" class="site-main clearfix">
-    <div id="content-wrap" class="container">
-        <div id="site-content" class="site-content clearfix">
-            <div id="inner-content" class="inner-content-wrap">
 
-                    <div class="row">
-                        <div class="col-md-12">
-                            <div class="wprt-spacer" data-desktop="80" data-mobi="40" data-smobi="40"></div>
 
-                            <h3 class="line-height-normal margin-bottom-10">Ətraflı</h3>
-                            <div class="wprt-lines style-1 custom-3">
-                                <div class="line-1"></div>
-                                <div class="line-2"></div>
-                            </div>
 
-                            <div class="wprt-spacer" data-desktop="25" data-mobi="25" data-smobi="25"></div>
 
-                            <p class="margin-bottom-0">{{xidmet.description | safe}}</p>
 
-                            <div class="wprt-spacer" data-desktop="35" data-mobi="35" data-smobi="35"></div>
-
-                           
-
-                            <div class="wprt-spacer" data-desktop="50" data-mobi="40" data-smobi="40"></div>
-                        </div><!-- /.col-md-12 -->
-
-                        <div class="col-md-12">
-                            <h3 class="line-height-normal margin-bottom-10">QALAREYA</h3>
-                            <div class="wprt-lines style-1 custom-3">
-                                <div class="line-1"></div>
-                                <div class="line-2"></div>
-                            </div>
-
-                            <div class="wprt-spacer" data-desktop="25" data-mobi="25" data-smobi="25"></div>
-
-                            
-                            <div class="wprt-spacer" data-desktop="30" data-mobi="30" data-smobi="30"></div>
-
-                            <div class="wprt-galleries-grid arrow-style-1 has-arrows arrow60 arrow-position-2" data-layout="slider" data-column="2" data-column2="2" data-column3="1" data-column4="1" data-gaph="10" data-gapv="10">
-                                <div id="images-wrap" class="cbp">
-                                   
-                                   {% for image in xidmet.sekiller.all%}
-                                    <div class="cbp-item">
-                                        <div class="item-wrap">
-                                            <a class="zoom" href="{{image.images.url}}"><i class="fa fa-arrows-alt"></i></a>
-                                            <img style=" height: 500px; width: auto;margin: auto; " src="{{image.images.url}}" alt="image" />
-                                        </div>
-                                    </div><!--/.cbp-item -->
-                                    {% endfor %}
-                                </div><!-- /#images-wrap -->
-                            </div><!-- /.wprt-galleries-grid -->
-                        </div><!-- /.col-md-12 -->
-
-                        
-
-                        
-                        
-                        <div class="col-md-12">
-                            <div class="wprt-spacer" data-desktop="80" data-mobi="40" data-smobi="40"></div>
+<div class="container mt-5">
+    <div class="row">
+        <!-- Service Image Slider -->
+        <div class="col-md-6">
+            <div class="slider-container">
+                <div class="service-slider">
+                    {% for image in xidmet.sekiller.all %}
+                        <div>
+                            <img src="{{ image.images.url }}" class="img-fluid rounded" alt="{{ xidmet.name }}">
                         </div>
-                    </div><!-- /.row -->
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
 
-            </div><!-- /.inner-content-wrap -->
-        </div><!-- /#site-content -->
+        <!-- Service Details -->
+        <div class="col-md-6">
+            <h1 class="text-primary">{{ xidmet.name }}</h1>
+            <hr>
+            <p class="text-muted">{{ xidmet.short_description|safe }}</p>
+            <hr>
+            <p class="text-muted">{{ xidmet.description|safe }}</p>
 
-        <div id="sidebar">
-            <div class="wprt-spacer" data-desktop="80" data-mobi="40" data-smobi="40"></div>
 
-            <div id="inner-sidebar" class="inner-content-wrap">
-                <div class="widget widget_nav_menu">
-                    <div class="menu-service-menu-container">
-                       <img  src="{{xidmet.image.url}}"/>
-                    </div>
-                </div><!-- /.widget_nav_menu -->
-            </div><!-- /#inner-sidebar -->
-        </div><!-- /#sidebar -->
-    </div><!-- /#content-wrap -->
+        </div>
+    </div>
+
+    <!-- Related Images Section -->
+
+</div>
+
+<!-- Slick.js Script -->
+<script>
+    $(document).ready(function(){
+        $('.service-slider').slick({
+            dots: true,
+            infinite: true,
+            speed: 500,
+            slidesToShow: 1,
+            adaptiveHeight: true
+        });
+
+        $('.extra-images-slider').slick({
+            dots: false,
+            infinite: true,
+            speed: 300,
+            slidesToShow: 3,
+            slidesToScroll: 1,
+            responsive: [
+                { breakpoint: 768, settings: { slidesToShow: 2 } },
+                { breakpoint: 480, settings: { slidesToShow: 1 } }
+            ]
+        });
+    });
+</script>
+
+
+
+
+
+
 </div><!-- /#main-content -->
 
 <!-- PARTNERS -->
@@ -470,6 +473,8 @@
 <script type="text/javascript" src="{% static 'js/cube.portfolio.js' %}"></script>
 <script type="text/javascript" src="{% static 'js/main.js' %}"></script>
 <script type="text/javascript" src="{% static 'js/main2.js' %}"></script>
+<!-- Slick Slider JS -->
+<script src="https://cdn.jsdelivr.net/npm/slick-carousel/slick/slick.min.js"></script>
 
 </body>
 </html>

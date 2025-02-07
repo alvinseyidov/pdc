@@ -163,7 +163,7 @@
                         <li class="menu-item menu-item-has-children "><a href="{% url 'xidmetler'%}">XİDMƏTLƏR</a>
                             <ul class="sub-menu">
                                 {% for xidmet in xidmetler %}
-                                <li class="menu-item"><a href="icons.html">{{xidmet.name}}</a></li>
+                                <li class="menu-item"><a href="{% url 'xidmetlerdetail' xidmet.id%}">{{xidmet.name}}</a></li>
                                 {% endfor %}
                             </ul>
                         </li>
@@ -263,7 +263,7 @@
                                                             <img src="{{project.image.url}}" alt="image" />
                                                             <figcaption>
                                                                 <div>
-                                                                    <h2><a target="_blank" href="page-project-detail.html">{{project.name}}</a></h2>
+                                                                    <h2><a href="{% url 'portfolio-detail' project.id%}">{{project.name}}</a></h2>
                                                                     <p>Portfolio</p>
                                                                 </div>
                                                             </figcaption>           

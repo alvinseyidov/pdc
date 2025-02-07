@@ -164,7 +164,7 @@
                         <li class="menu-item  current-menu-item menu-item-has-children"><a href="{% url 'xidmetler'%}">XİDMƏTLƏR</a>
                             <ul class="sub-menu">
                                 {% for xidmet in xidmetler %}
-                                <li class="menu-item"><a href="icons.html">{{xidmet.name}}</a></li>
+                                <li class="menu-item"><a href="{% url 'xidmetlerdetail' xidmet.id%}">{{xidmet.name}}</a></li>
                                 {% endfor %}
                             </ul>
                         </li>
@@ -219,95 +219,48 @@
             <div id="inner-content" class="inner-content-wrap">
                 <div class="page-content">
                     <!-- SERVICES -->
-                    <section class="wprt-section services">
-                        <div class="container">
-                            <div class="row">
-                                <div class="col-md-12">
-                                    <div class="wprt-spacer" data-desktop="110" data-mobi="40" data-smobi="40"></div>
-                                </div><!-- /.col-md-12 -->
-                                        
-                                <div class="col-md-4">
-                                    <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
-                                        <div class="icon-wrap font-size-35">
-                                            <span class="dd-icon icon-drawing"></span>
-                                        </div>
-                                        <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Construction Consultant</a></h3>
-                                            <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
-                                        </div>
-                                    </div>
+                  <section class="wprt-section services">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="wprt-spacer" data-desktop="110" data-mobi="40" data-smobi="40"></div>
+            </div><!-- /.col-md-12 -->
 
-                                    <div class="wprt-spacer" data-desktop="43" data-mobi="30" data-smobi="30"></div>
+            {% for xidmet in xidmetler %}
+                {% if forloop.counter0|divisibleby:2 %}
+                    <div class="col-md-4">
+                {% endif %}
 
-                                    <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
-                                        <div class="icon-wrap font-size-35">
-                                            <span class="dd-icon icon-engineer"></span>
-                                        </div>
-                                        <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">General Contracting</a></h3>
-                                            <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
-                                        </div>
-                                    </div>
+                <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
+                    <div class="icon-wrap font-size-35">
+                        {% if xidmet.iconimage %}
+                            <img src="{{ xidmet.iconimage.url }}" class="img-fluid" width="50" alt="{{ xidmet.name }}">
+                        {% else %}
+                            <span class="dd-icon icon-light-bulb"></span> <!-- Default icon -->
+                        {% endif %}
+                    </div>
+                    <div class="content-wrap">
+                        <h3 class="dd-title font-size-18">
+                            <a href="{% url 'xidmetlerdetail' xidmet.id %}">{{ xidmet.name }}</a>
+                        </h3>
+                        <p>{{ xidmet.short_description}}</p>
+                    </div>
+                </div>
 
-                                    <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
-                                </div><!-- /.col-md-4 -->
+                <div class="wprt-spacer" data-desktop="43" data-mobi="30" data-smobi="30"></div>
 
-                                <div class="col-md-4">
-                                    <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
-                                        <div class="icon-wrap font-size-35">
-                                            <span class="dd-icon icon-drawing-compass"></span>
-                                        </div>
-                                        <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Architectural Design</a></h3>
-                                            <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
-                                        </div>
-                                    </div>
+                {% if forloop.counter|divisibleby:2 or forloop.last %}
+                    </div><!-- /.col-md-4 -->
+                {% endif %}
+            {% endfor %}
 
-                                    <div class="wprt-spacer" data-desktop="43" data-mobi="30" data-smobi="30"></div>
+            <div class="col-md-12">
+                <div class="wprt-spacer" data-desktop="92" data-mobi="40" data-smobi="40"></div>
+            </div><!-- /.col-md-12 -->
+        </div><!-- /.row -->
+    </div><!-- /.container -->
+</section>
 
-                                    <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
-                                        <div class="icon-wrap font-size-35">
-                                            <span class="dd-icon icon-drill-2"></span>
-                                        </div>
-                                        <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Resconstruction Services</a></h3>
-                                            <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
-                                        </div>
-                                    </div>
-
-                                    <div class="wprt-spacer" data-desktop="0" data-mobi="30" data-smobi="30"></div>
-                                </div><!-- /.col-md-4 -->
-
-                                <div class="col-md-4">
-                                    <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
-                                        <div class="icon-wrap font-size-35">
-                                            <span class="dd-icon icon-light-bulb"></span>
-                                        </div>
-                                        <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Electrical System</a></h3>
-                                            <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
-                                        </div>
-                                    </div>
-
-                                    <div class="wprt-spacer" data-desktop="43" data-mobi="30" data-smobi="30"></div>
-
-                                    <div class="wprt-icon-box accent-background rounded icon-effect-2 icon-left">
-                                        <div class="icon-wrap font-size-35">
-                                            <span class="dd-icon icon-pipe-11"></span>
-                                        </div>
-                                        <div class="content-wrap">
-                                            <h3 class="dd-title font-size-18"><a href="#">Plumbilg Services</a></h3>
-                                            <p>Vestibulum eu libero volutpat, portas quam, tempus sem. Donec sodales quam id lorem lobortis, vitae interdum nisl.</p>
-                                        </div>
-                                    </div>
-                                </div><!-- /.col-md-4 -->
-
-                                <div class="col-md-12">
-                                    <div class="wprt-spacer" data-desktop="92" data-mobi="40" data-smobi="40"></div>
-                                </div><!-- /.col-md-12 -->
-                            </div><!-- /.row -->
-                        </div><!-- /.container -->
-                    </section>
 
                     <!-- PROMOTION -->
                     <section id="promotion" class="wprt-section">
