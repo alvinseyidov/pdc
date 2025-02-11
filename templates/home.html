@@ -285,7 +285,9 @@ Yarandığı gündən bu günə qədər təqdim etdiyi, həyata dəyər qatan fu
                                             <div class="grid">
                                                 
                                             <figure class="effect-honey">
+                                                {% if project.image %}
                                                 <img style=" height: 228px; width: auto; margin: auto; " src="{{project.image.url}}" alt="image" />
+                                                {% endif%}
                                                 
                                                 <figcaption>
                                                     <div>
