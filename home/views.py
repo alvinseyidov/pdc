@@ -26,4 +26,4 @@ def home(request):
         "hashtaglar": hashtaglar,
         "yenilikler": yenilikler
     }
-    return render(request, "home.html", context)
+    return render(request, "comingsoon.html", context)
