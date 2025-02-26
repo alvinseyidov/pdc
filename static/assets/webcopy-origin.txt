@@ -1,0 +1,1504 @@
+Uri: https://buildgo.themeori.com/wp-content/uploads/2024/09/banner-bg.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\wp-content\uploads\2024\09\banner-bg.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap
+File Name: C:\Downloaded Web Sites\html.themeori.net\css2-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Instrument+Sans:ital,wght@0,400..700;1,400..700&display=swap
+File Name: C:\Downloaded Web Sites\html.themeori.net\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Avy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86CPy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Cvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Dvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Evy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Gvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ivy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Jvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvx4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Lvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Mvy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-7DW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-7DW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDG3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDG3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat-JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8gCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8gCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat8JDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9uCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9uCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9XCm3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat9XCm3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat_XDW3z.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2rp2ywxg089UriCZaSExd86J3t9jz86Ovy4qCRAL19DksVat_XDW3z.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Ck8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CkcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl0qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cl8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8ClsqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8Cm8qZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CmcqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CncqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnMqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqpG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAC5thTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAC5thTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAfJthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAfJthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAIpxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAkJxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAkJxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAop1hTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAop1hTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAopxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwAopxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwARZthTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwARZthTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dmsans/v15/rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwA_JxhTg.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\dmsans\v15\rP2tp2ywxg089UriI5-g4vlH9VoD8CnsqZG40F9JadbnoEwA_JxhTg.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkyk.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENugixkyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENujGxkyk.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENujGxkyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENut22kyk.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENut22kyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kyk.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\instrumentsans\v1\pxigypc9vsFDm051Uf6KVwgkfoSbSnNPooZAN0lInHGpCWNE27lgU-XJojENuu-2kyk.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQb_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSQi_gf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npST3-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/instrumentsans/v1/pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\s\instrumentsans\v1\pximypc9vsFDm051Uf6KVwgkfoSxQ0GsQv8ToedPibnr-yp2JGEJOH9npSTF-Qf1.ttf
+Content Type: font/ttf
+
+Uri: https://html.themeori.net/buildgo/404-error.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\404-error.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/about.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\about.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/assets/css/animate.css
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\css\animate.css
+Content Type: text/css
+
+Uri: https://html.themeori.net/buildgo/assets/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://html.themeori.net/buildgo/assets/css/fontawesome.css
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\css\fontawesome.css
+Content Type: text/css
+
+Uri: https://html.themeori.net/buildgo/assets/css/magnific-popup.css
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://html.themeori.net/buildgo/assets/css/swiper-bundle.min.css
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\css\swiper-bundle.min.css
+Content Type: text/css
+
+Uri: https://html.themeori.net/buildgo/assets/font/flaticon_flexitype.css
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\font\flaticon_flexitype.css
+Content Type: text/css
+
+Uri: https://html.themeori.net/buildgo/assets/font/flaticon_flexitype.eot?715b2035b3226a13cac3517c64e5fd34
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\font\flaticon_flexitype.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.themeori.net/buildgo/assets/font/flaticon_flexitype.svg?715b2035b3226a13cac3517c64e5fd34
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\font\flaticon_flexitype.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themeori.net/buildgo/assets/font/flaticon_flexitype.ttf?715b2035b3226a13cac3517c64e5fd34
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\font\flaticon_flexitype.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/font/flaticon_flexitype.woff2?715b2035b3226a13cac3517c64e5fd34
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\font\flaticon_flexitype.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/font/flaticon_flexitype.woff?715b2035b3226a13cac3517c64e5fd34
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\font\flaticon_flexitype.woff
+Content Type: application/font-woff
+
+Uri: https://html.themeori.net/buildgo/assets/img/about/about-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\about\about-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/about/about-2.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\about\about-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/about/about-3.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\about\about-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/about/about-4.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\about\about-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/about/about-5.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\about\about-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/about/about-6.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\about\about-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/avatar/user.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\avatar\user.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/avatar/video-dark.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\avatar\video-dark.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/avatar/video.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\avatar\video.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/banner/banner-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\banner\banner-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/banner/banner-2.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\banner\banner-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/banner/banner-3.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\banner\banner-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/banner/banner.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\banner\banner.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/banner/banner.mp4
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\banner\banner.mp4
+Content Type: video/mp4
+
+Uri: https://html.themeori.net/buildgo/assets/img/blog/blog-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/blog/blog-2.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\blog\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/blog/blog-3.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\blog\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/blog/blog-4.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/blog/blog-5.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\blog\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/blog/blog-6.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\blog\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/brand/brand-1.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\brand\brand-1.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/brand/brand-2.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\brand\brand-2.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/brand/brand-3.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\brand\brand-3.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/brand/brand-4.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\brand\brand-4.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/brand/brand-5.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\brand\brand-5.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/brand/brand-6.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\brand\brand-6.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/brand/brand-7.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\brand\brand-7.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/brand/brand-8.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\brand\brand-8.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/favicon.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/icon/arrow.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\icon\arrow.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/icon/icon-2.svg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\icon\icon-2.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themeori.net/buildgo/assets/img/icon/icon-3.svg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\icon\icon-3.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themeori.net/buildgo/assets/img/icon/star-dark.svg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\icon\star-dark.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themeori.net/buildgo/assets/img/icon/star.svg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\icon\star.svg
+Content Type: image/svg+xml
+
+Uri: https://html.themeori.net/buildgo/assets/img/logo-1.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\logo-1.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/logo-2.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\logo-2.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/logo-3.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\logo-3.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/banner-video.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\banner-video.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/breadcrumb.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\breadcrumb.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/choose-us.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\choose-us.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/cta-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\cta-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/cta.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\cta.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/experience.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\experience.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/image-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\image-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/image-2.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\image-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/services.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\services.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/skill.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\skill.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/subscribe.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\subscribe.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/video.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\video.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/page/who-we-are.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\page\who-we-are.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/portfolio/portfolio-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\portfolio\portfolio-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/portfolio/portfolio-2.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\portfolio\portfolio-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/portfolio/portfolio-3.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\portfolio\portfolio-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/portfolio/portfolio-4.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\portfolio\portfolio-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/portfolio/portfolio-5.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\portfolio\portfolio-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/portfolio/portfolio-6.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\portfolio\portfolio-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/portfolio/portfolio-7.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\portfolio\portfolio-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/portfolio/portfolio-8.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\portfolio\portfolio-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/service/service-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\service\service-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/service/service-2.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\service\service-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/service/service-3.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\service\service-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/service/service-4.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\service\service-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/service/services-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\service\services-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/shape/award.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\shape\award.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/shape/content-1.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\shape\content-1.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/shape/content.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\shape\content.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/shape/shape-dark.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\shape\shape-dark.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/shape/shape.png
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\shape\shape.png
+Content Type: image/png
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/member-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\member-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/member-2.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\member-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/member-3.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\member-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/member-4.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\member-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/member-5.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\member-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/team-1.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\team-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/team-2.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\team-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/team-3.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\team-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/img/team/team-4.jpg
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\img\team\team-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.themeori.net/buildgo/assets/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\bootstrap.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/custom.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\custom.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/gsap.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\gsap.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/isotope.pkgd.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/jquery-3.6.0.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\jquery-3.6.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/jquery.counterup.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\jquery.counterup.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/jquery.magnific-popup.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\jquery.magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/jquery.waypoints.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\jquery.waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/popper.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\popper.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/progressbar.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\progressbar.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/scroll-trigger.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\scroll-trigger.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/split-text.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\split-text.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/swiper-bundle.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/js/wow.min.js
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://html.themeori.net/buildgo/assets/sass/style.css
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\sass\style.css
+Content Type: text/css
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-duotone-900.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-duotone-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-duotone-900.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-light-300.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-light-300.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-sharp-light-300.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-sharp-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-sharp-light-300.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-sharp-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-sharp-regular-400.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-sharp-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-sharp-regular-400.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-sharp-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-sharp-solid-900.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-sharp-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-sharp-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-sharp-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-thin-100.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-thin-100.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-thin-100.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-thin-100.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-v4compatibility.ttf
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-v4compatibility.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://html.themeori.net/buildgo/assets/webfonts/fa-v4compatibility.woff2
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\assets\webfonts\fa-v4compatibility.woff2
+Content Type: font/woff2
+
+Uri: https://html.themeori.net/buildgo/blog-details.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\blog-details.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/blog-grid-three.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\blog-grid-three.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/blog-grid-two.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\blog-grid-two.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/blog-standard.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\blog-standard.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/contact.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\contact.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/faq.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\faq.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/gallery.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\gallery.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/history.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\history.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/index-four.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\index-four.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/index-three.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\index-three.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/index-two.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\index-two.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/index.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\index.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/portfolio-details.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\portfolio-details.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/portfolio-four.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\portfolio-four.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/portfolio-three.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\portfolio-three.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/portfolio-two.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\portfolio-two.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/pricing.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\pricing.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/request-quote.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\request-quote.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/services-details.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\services-details.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/services.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\services.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/team-three.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\team-three.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/team-two.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\team-two.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/team.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\team.html
+Content Type: text/html
+
+Uri: https://html.themeori.net/buildgo/testimonial.html
+File Name: C:\Downloaded Web Sites\html.themeori.net\buildgo\testimonial.html
+Content Type: text/html
+

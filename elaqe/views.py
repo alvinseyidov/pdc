@@ -2,7 +2,7 @@ from django.shortcuts import render, redirect
 from django.contrib import messages
 
 from haqqimizda.models import Partnyorlar, Hashtag
-from xidmetler.models import Xidmetler
+from xidmetler.models import Xidmetler, KorporativXidmetler
 from .forms import ContactForm
 
 def elaqe(request):
@@ -18,10 +18,12 @@ def elaqe(request):
             messages.success(request, "Mesajınız uğurla göndərildi!")
             return redirect('elaqe')  # Redirect to clear form fields and avoid resubmission issues
 
+    kxidmetler = KorporativXidmetler.objects.all()
     context = {
+        "kxidmetler": kxidmetler,
         "xidmetler": xidmetler,
         "hashtaglar": hashtaglar,
         "partnyorlar": partnyorlar,
         "form": form
     }
-    return render(request, "elaqe.html", context)
+    return render(request, "new/contact.html", context)

@@ -27,15 +27,17 @@ from django.urls import path, include
 urlpatterns = [
     path('admin/', admin.site.urls),
     path('', include('home.urls')),
-    #path('haqqimizda/', haqqimizda.haqqimizda, name='haqqimizda'),
-    #path('xidmetler/', xidmetler.xidmetler, name='xidmetler'),
-    #path('xidmetler/<int:id>', xidmetler.xidmetlerdetail, name='xidmetlerdetail'),
-    #path('portfolio/', portfolio.portfolio, name='portfolio'),
-    #path('portfolio/<int:id>', portfolio.portfoliodetail, name='portfolio-detail'),
-    #path('qalereya/', qalereya.qalereya, name='qalereya'),
-    #path('yenilikler/', yenilikler.yenilikler, name='yenilikler'),
-    #path('yenilikler/<int:id>/', yenilikler.yeniliklerdetail, name='yeniliklerdetail'),
-    #path('elaqe/', elaqe.elaqe, name='elaqe'),
+    path('haqqimizda/', haqqimizda.haqqimizda, name='haqqimizda'),
+    path('xidmetler/', xidmetler.xidmetler, name='xidmetler'),
+    path('korporativ-xidmetler/', xidmetler.kxidmetler, name='kxidmetler'),
+    path('xidmetler/<int:id>', xidmetler.xidmetlerdetail, name='xidmetlerdetail'),
+    path('xidmetler/sub/<int:id>', xidmetler.xidmetlerdetail, name='sub_category'),
+    path('portfolio/', portfolio.portfolio, name='portfolio'),
+    path('portfolio/<int:id>', portfolio.portfoliodetail, name='portfolio-detail'),
+    path('qalereya/', qalereya.qalereya, name='qalereya'),
+    path('yenilikler/', yenilikler.yenilikler, name='yenilikler'),
+    path('yenilikler/<int:id>/', yenilikler.yeniliklerdetail, name='yeniliklerdetail'),
+    path('elaqe/', elaqe.elaqe, name='elaqe'),
 
 ]
 urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)

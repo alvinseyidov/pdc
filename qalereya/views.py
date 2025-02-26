@@ -1,6 +1,6 @@
 from django.shortcuts import render
 from .models import Gallery
-from xidmetler.models import Xidmetler
+from xidmetler.models import Xidmetler, KorporativXidmetler
 from haqqimizda.models import *
 # Create your views here.
 
@@ -10,10 +10,12 @@ def qalereya(request):
     partnyorlar = Partnyorlar.objects.all()
     hashtaglar = Hashtag.objects.all()
 
+    kxidmetler = KorporativXidmetler.objects.all()
     context = {
+        "kxidmetler": kxidmetler,
         "gallery": gallery,
         "partnyorlar": partnyorlar,
         "hashtaglar": hashtaglar,
         "xidmetler": xidmetler
     }
-    return render(request, "qalereya.html", context)
+    return render(request, "new/gallery.html", context)

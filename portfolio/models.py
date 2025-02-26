@@ -16,6 +16,9 @@ class Category(models.Model):
 
 class Project(models.Model):
     name = models.CharField(verbose_name='Proyektin adı', max_length=256, null=True, blank=True)
+    customer = models.CharField(verbose_name='Müştəri adı', max_length=256, null=True, blank=True)
+    address = models.CharField(verbose_name='Proyektin ünvanı', max_length=256, null=True, blank=True)
+    teslim = models.CharField(verbose_name='Təslim tarixi və ya davam edir', max_length=256, null=True, blank=True)
     category = models.ManyToManyField(Xidmetler, verbose_name='Xidmət kateqoriyası', related_name='portfolios')
     image = models.ImageField(verbose_name='Proyekt şəkli', null=True, blank=True)
     description = RichTextField(verbose_name='Proyekt haqqında ətraflı məlumat', blank=True, null=True)
