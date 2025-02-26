@@ -198,10 +198,10 @@
 			<div class="row">
 				<div class="col-xl-12">
 					<div class="breadcrumb__area-content">
-						<h2>Xidmətlər</h2>
+						<h2>Korporativ Xidmətlər</h2>
 						<ul>
 							<li><a href="{% url 'home'%}">Ana Səhifə</a><i class="fa-regular fa-angle-right"></i></li>
-							<li>Xidmətlər</li>
+							<li>Korporativ Xidmətlər</li>
 						</ul>
 					</div>
 				</div>
@@ -213,13 +213,13 @@
     <div class="services__page section-padding-three">
         <div class="container">
             <div class="row" style="justify-content:center;">
-				{% for x in xidmetler%}
+				{% for x in kxidmetler%}
                 <div class="col-lg-4 col-md-6 mt-25 wow fadeInUp" data-wow-delay=".4s">
                     <div class="services__one-item">
                         <img class="darkicon" src="{{x.icon1.url}}" style="width:100px;">
 									<img class="lighticon" src="{{x.icon2.url}}" style="width:100px;">
-                       <h4><a href="{% url 'xidmetlerdetail' x.id%}">{{x.name}}</a></h4>
-									<a class="more_btn" href="{% url 'xidmetlerdetail' x.id%}">Daha Ətraflı<i class="flaticon-right-up"></i></a>
+                       <h4><a>{{x.name}}</a></h4>
+
                     </div>
                 </div>
                 {% endfor%}
