@@ -244,7 +244,11 @@
                 </div>
                 <div class="col-lg-8">
                     <div class="services__details-area">
-                        <img src="{{xidmet.image.url}}" alt="image">
+                        {% if xidmet.image %}
+    <img src="{{ xidmet.image.url }}" alt="image">
+{% else %}
+    <img src="/static/default-image.jpg" alt="No Image Available">
+{% endif %}
                         <h3 class="mt-25 mb-20">{{xidmet.name}}</h3>
                         <p class="mb-20">
 							{{xidmet.description |safe}}
