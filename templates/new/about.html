@@ -139,32 +139,87 @@
 
 							</li>
 							<li class="menu-item-has-children"><a href="{% url 'xidmetler'%}">XİDMƏTLƏR</a>
-                                <ul class="sub-menu">
-									<li  class="menu-item-has-children">
-
-										<ul class="sub-menu">
-											{% for k in kxidmetler %}
-											<li><a href="{% url 'kxidmetler' %}">{{k.name}}</a></li>
-											{% endfor%}
-										</ul>
-
-												<a href="{% url 'kxidmetler'%}">Korporativ Xidmətlər</a></li>
-
-
-									{% for x in xidmetler %}
-											<li {% if x.sub_categories.first %} class="menu-item-has-children"{% endif%}>
-												{% if x.sub_categories.first%}
-										<ul class="sub-menu">
-											{% for s in x.sub_categories.all %}
-											<li><a href="{% url 'sub_category' s.id%}">{{s.name}}</a></li>
-											{% endfor%}
-										</ul>
-												{% endif%}
-												<a href="{% url 'xidmetlerdetail' x.id%}">{{x.name}}</a></li>
-
-									{% endfor%}
-
-										</ul>
+                                <ul class="sub-menu wide-menu">
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">BETON VƏ YAPI İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Betonun Qarışdırılması və Dökülməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Plitələrin Döşənməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Bazasının Hazırlanması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Armaturun Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Təmiri və Yenidənqurma</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Qatlarının Təmiri və Bərpası</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Lövhələrin Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Divarların Tikilməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Dəmir Konstruksiyalarının Hazırlanması</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">FASAD VƏ XARİCİ İŞLƏR</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Seramik və Təbii Daş Fasad Örtükləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Kompozit və Metal Fasad Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Alüminium Fasad Sistemi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Fasad Örtükləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Havalandırılan Fasadlar</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">PƏNCƏRƏ VƏ QAPI SİSTEMLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">PVC və Alüminium</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">İzolyasiya olunmuş və Yanğına davamlı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sürgülü və Cam Balkon Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Hebeschiebe Sürgülü Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Ara Kəsmələri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Tavan Sistemləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">TİKİNTİ VƏ YENİDƏNQURMA İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Divar və Tavan Təmir İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sənaye və Kommersiya Binalarının Təmiri və Tikintisi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sahə Planlaşdırılması və Podratçı İşləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">DAXİLİ TƏMİR İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Laminat və Parket Döşənməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Keramika və Kafel Döşəmələri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Divar Kağızlarının Vurulması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Boya İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Alçıpan Tavanların Montajı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Asma Tavanlar və Dartma Tavanlar</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">İSTİLİK, ELEKTRİK VƏ SANTEXNİKA İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">İstilik və Soyutma Sistemlərinin Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Elektrik İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Santexnika İşləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">ƏLAVƏ XİDMƏTLƏR</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Metal Konstruksiyalar və Məhəccərlər</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sənaye Qapıları və Dəmir Qapılar</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Bağçılıq və Yaşıl Zonaların Təşkili</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Süni Şəlalələr və Göllər</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Mebel İstehsalı və Montajı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Xüsusi İntyer Dizaynı</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
                             </li>
                             <li class=""><a href="{% url 'portfolio' %}">İŞLƏRİMİZ</a>
 
@@ -247,6 +302,124 @@
         </div>
     </div>
     <!-- Mission Area End -->
+    <!-- Values Area Start -->
+    <div class="values__area section-padding">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12 mb-60">
+                    <div class="values__area-title text-center">
+                        <span class="subtitle wow fadeInLeft" data-wow-delay=".4s">Premium Destiny Construction</span>
+                        <h2 class="title_split_anim">DƏYƏRLƏRİMİZ</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="values__item wow fadeInUp" data-wow-delay=".4s">
+                        <div class="values__item-icon">
+                            <i class="flaticon-team"></i>
+                        </div>
+                        <div class="values__item-content">
+                            <h3>Etibarlılıq</h3>
+                            <p>Biz, etibarlılıq və dürüstlük prinsiplərinə sadiq qalaraq, hər layihədə yüksək keyfiyyət və müştəri məmnuniyyətini təmin edirik. Şirkətimizin əsas məqsədi, sizə ən yaxşı xidmətləri təqdim etməkdir. Bizimlə iş birliyiniz, etibarlılığımızın bir göstəricisidir.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="values__item wow fadeInUp" data-wow-delay=".6s">
+                        <div class="values__item-icon">
+                            <i class="flaticon-technology"></i>
+                        </div>
+                        <div class="values__item-content">
+                            <h3>İnnovasiya</h3>
+                            <p>Premium Destiny Construction üçün innovasiya, müştərilərimizin tələblərinə uyğun yeni və qabaqcıl tikinti həlləri təqdim etmək deməkdir.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-md-6 mb-30">
+                    <div class="values__item wow fadeInUp" data-wow-delay=".8s">
+                        <div class="values__item-icon">
+                            <i class="flaticon-customer-service"></i>
+                        </div>
+                        <div class="values__item-content">
+                            <h3>Müştəri Məmnuniyyəti</h3>
+                            <p>Premium Destiny Construction üçün müştəri məmnuniyyəti, xidmətlərimizin keyfiyyətini artırmaq, müştəri gözləntilərini qarşılamaq və müştəri ehtiyaclarını ön planda tutmaq deməkdir.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Values Area End -->
+
+    <style>
+    .values__item {
+        background-color: #f9f9f9;
+        padding: 40px 30px;
+        border-radius: 10px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+        transition: all 0.3s ease;
+        height: 100%;
+        position: relative;
+        overflow: hidden;
+        border-bottom: 3px solid transparent;
+    }
+    
+    .values__item:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+        border-bottom: 3px solid var(--primary-color, #FF5E14);
+    }
+    
+    .values__item:after {
+        content: "";
+        position: absolute;
+        bottom: 0;
+        right: 0;
+        width: 80px;
+        height: 80px;
+        background-color: rgba(255, 94, 20, 0.05);
+        border-radius: 50% 0 0 0;
+    }
+    
+    .values__item-icon {
+        font-size: 36px;
+        color: var(--primary-color, #FF5E14);
+        margin-bottom: 20px;
+        position: relative;
+        z-index: 1;
+    }
+    
+    .values__item-content h3 {
+        font-size: 24px;
+        font-weight: 700;
+        margin-bottom: 15px;
+        position: relative;
+    }
+    
+    .values__item-content h3:after {
+        content: "";
+        position: absolute;
+        left: 0;
+        bottom: -8px;
+        width: 50px;
+        height: 2px;
+        background-color: var(--primary-color, #FF5E14);
+    }
+    
+    .values__item-content p {
+        margin-bottom: 0;
+        font-size: 16px;
+        line-height: 1.7;
+    }
+    
+    @media (max-width: 767px) {
+        .values__item {
+            padding: 30px 20px;
+        }
+    }
+    </style>
+
     <!-- About Area Start -->
     <div class="about__five section-padding pt-0">
         <div class="container">
@@ -283,6 +456,123 @@ Biz, müştərilərimizə yalnız estetik baxımdan gözəl deyil, həm də funk
         </div>
     </div>
     <!-- About Area End -->
+
+    <!-- History Area Start -->
+    <div class="history__area section-padding pt-0">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-12">
+                    <div class="history__area-title text-center mb-60">
+                        <span class="subtitle wow fadeInLeft" data-wow-delay=".4s">Premium Destiny Construction</span>
+                        <h2 class="title_split_anim">TARİXÇƏMİZ</h2>
+                    </div>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-xl-10 offset-xl-1">
+                    <div class="history__timeline">
+                        <div class="history__timeline-item wow fadeInUp" data-wow-delay=".4s">
+                            <div class="history__timeline-year">
+                                <span>2013</span>
+                            </div>
+                            <div class="history__timeline-content">
+                                <p>2013-ci ildə təməli qoyulan Premium Destiny Construction, tikinti sektorunda yüksək keyfiyyət və etibarlılıq prinsipləri ilə fəaliyyət göstərir. Fasad örtük sistemləri, pəncərə və qapı sistemləri, təmir, tikinti və texniki baxım xidmətləri ilə müştərilərimizə geniş çeşidli tikinti həlləri təqdim edirik.</p>
+                            </div>
+                        </div>
+                        <div class="history__timeline-item wow fadeInUp" data-wow-delay=".6s">
+                            <div class="history__timeline-year">
+                                <span>2016</span>
+                            </div>
+                            <div class="history__timeline-content">
+                                <p>2016-cı ildən etibarən Premium Destiny Construction olaraq, Türkiyə, Avropa və Çin də daxil olmaqla, layihələrimizdə istifadə edilən profillər və digər sistemləri idxal etməyə və satışını həyata keçirməyə başladıq.</p>
+                            </div>
+                        </div>
+                        <div class="history__timeline-item wow fadeInUp" data-wow-delay=".8s">
+                            <div class="history__timeline-year">
+                                <span>2021</span>
+                            </div>
+                            <div class="history__timeline-content">
+                                <p>2021-ci ilə qədər Premium Destiny Construction olaraq 18 korporativ layihəni və yüzlərlə fərdi müştəri layihəsini uğurla təhvil vermişik. Bu layihələrimizdə yüksək keyfiyyətli materiallardan istifadə edərək müştərilərimizə müasir və dayanıqlı tikinti həlləri təqdim etmişik. Hər bir layihəmizdə müştəri məmnuniyyəti ön planda olmuş, fərdi tələblərə uyğun özəl həllər hazırlanmışdır. Müxtəlif sektorlar üzrə, o cümlədən yaşayış binaları, ofis binaları və digər kommersiya obyektləri üzrə layihələrimiz uğurla həyata keçirilmişdir.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- History Area End -->
+
+    <style>
+    .history__timeline {
+        position: relative;
+        padding-left: 40px;
+        border-left: 3px solid var(--primary-color, #FF5E14);
+    }
+    
+    .history__timeline-item {
+        position: relative;
+        margin-bottom: 50px;
+        padding: 30px;
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        box-shadow: 0 10px 30px rgba(0, 0, 0, 0.05);
+        transition: all 0.3s ease;
+    }
+    
+    .history__timeline-item:hover {
+        transform: translateY(-5px);
+        box-shadow: 0 15px 30px rgba(0, 0, 0, 0.1);
+    }
+    
+    .history__timeline-item:before {
+        content: "";
+        position: absolute;
+        left: -44px;
+        top: 30px;
+        width: 18px;
+        height: 18px;
+        border-radius: 50%;
+        background: var(--primary-color, #FF5E14);
+        border: 4px solid #fff;
+    }
+    
+    .history__timeline-year {
+        position: absolute;
+        top: -20px;
+        left: 20px;
+        background-color: var(--primary-color, #FF5E14);
+        color: #fff;
+        font-size: 18px;
+        font-weight: 700;
+        padding: 8px 20px;
+        border-radius: 30px;
+        box-shadow: 0 5px 15px rgba(255, 94, 20, 0.3);
+    }
+    
+    .history__timeline-content {
+        padding-top: 20px;
+    }
+    
+    .history__timeline-content p {
+        margin-bottom: 0;
+        font-size: 16px;
+        line-height: 1.8;
+    }
+    
+    @media (max-width: 767px) {
+        .history__timeline {
+            padding-left: 30px;
+        }
+        
+        .history__timeline-item {
+            padding: 20px;
+        }
+        
+        .history__timeline-item:before {
+            left: -34px;
+        }
+    }
+    </style>
 
     <!-- Certification Area Start -->
     <div class="certification section-padding pt-0">
@@ -497,3 +787,50 @@ Biz, müştərilərimizə yalnız estetik baxımdan gözəl deyil, həm də funk
 </body>
 
 </html>
+
+<style>
+/* Services Menu Styles */
+.header__area-menubar-center-menu ul.wide-menu {
+    min-width: 300px;
+}
+
+.header__area-menubar-center-menu ul li.menu-item-has-children > ul.sub-menu {
+    width: auto;
+    min-width: 250px;
+}
+
+/* Mobile Menu Scroll Fix */
+.menu__bar-popup {
+    max-height: 100vh;
+    overflow-y: auto;
+}
+
+.menu__bar-popup .vertical-menu {
+    max-height: 80vh;
+    overflow-y: auto;
+}
+
+.menu__bar-popup-top {
+    position: sticky;
+    top: 0;
+    
+    z-index: 10;
+}
+
+.vertical_menu ul {
+    max-height: none !important;
+    overflow: visible !important;
+}
+
+.vertical_menu ul li.active > .sub-menu {
+    max-height: none !important;
+    overflow: visible !important;
+}
+
+@media (max-width: 991px) {
+    .vertical-menu .vertical_menu ul li .sub-menu {
+        width: 100% !important;
+        overflow: visible !important;
+    }
+}
+</style>

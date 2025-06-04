@@ -129,7 +129,7 @@
 				</div>
 				<div class="header__area-menubar-center">
 					<div class="header__area-menubar-center-menu">
-                        <ul id="mobilemenu">
+						<ul id="mobilemenu">
                             <li class=""><a href="{% url 'home'%}">Ana SƏHİFƏ</a>
 
                             </li>
@@ -137,32 +137,87 @@
 
 							</li>
 							<li class="menu-item-has-children"><a href="{% url 'xidmetler'%}">XİDMƏTLƏR</a>
-                                <ul class="sub-menu">
-									<li  class="menu-item-has-children">
-
-										<ul class="sub-menu">
-											{% for k in kxidmetler %}
-											<li><a href="{% url 'kxidmetler' %}">{{k.name}}</a></li>
-											{% endfor%}
-										</ul>
-
-												<a href="{% url 'kxidmetler'%}">Korporativ Xidmətlər</a></li>
-
-
-									{% for x in xidmetler %}
-											<li {% if x.sub_categories.first %} class="menu-item-has-children"{% endif%}>
-												{% if x.sub_categories.first%}
-										<ul class="sub-menu">
-											{% for s in x.sub_categories.all %}
-											<li><a href="{% url 'sub_category' s.id%}">{{s.name}}</a></li>
-											{% endfor%}
-										</ul>
-												{% endif%}
-												<a href="{% url 'xidmetlerdetail' x.id%}">{{x.name}}</a></li>
-
-									{% endfor%}
-
-										</ul>
+                                <ul class="sub-menu wide-menu">
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">BETON VƏ YAPI İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Betonun Qarışdırılması və Dökülməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Plitələrin Döşənməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Bazasının Hazırlanması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Armaturun Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Təmiri və Yenidənqurma</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Qatlarının Təmiri və Bərpası</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Lövhələrin Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Divarların Tikilməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Dəmir Konstruksiyalarının Hazırlanması</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">FASAD VƏ XARİCİ İŞLƏR</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Seramik və Təbii Daş Fasad Örtükləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Kompozit və Metal Fasad Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Alüminium Fasad Sistemi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Fasad Örtükləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Havalandırılan Fasadlar</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">PƏNCƏRƏ VƏ QAPI SİSTEMLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">PVC və Alüminium</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">İzolyasiya olunmuş və Yanğına davamlı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sürgülü və Cam Balkon Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Hebeschiebe Sürgülü Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Ara Kəsmələri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Tavan Sistemləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">TİKİNTİ VƏ YENİDƏNQURMA İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Divar və Tavan Təmir İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sənaye və Kommersiya Binalarının Təmiri və Tikintisi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sahə Planlaşdırılması və Podratçı İşləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">DAXİLİ TƏMİR İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Laminat və Parket Döşənməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Keramika və Kafel Döşəmələri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Divar Kağızlarının Vurulması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Boya İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Alçıpan Tavanların Montajı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Asma Tavanlar və Dartma Tavanlar</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">İSTİLİK, ELEKTRİK VƏ SANTEXNİKA İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">İstilik və Soyutma Sistemlərinin Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Elektrik İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Santexnika İşləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">ƏLAVƏ XİDMƏTLƏR</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Metal Konstruksiyalar və Məhəccərlər</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sənaye Qapıları və Dəmir Qapılar</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Bağçılıq və Yaşıl Zonaların Təşkili</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Süni Şəlalələr və Göllər</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Mebel İstehsalı və Montajı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Xüsusi İntyer Dizaynı</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
                             </li>
                             <li class=""><a href="{% url 'portfolio' %}">İŞLƏRİMİZ</a>
 
@@ -231,17 +286,25 @@
 							<div class="col-md-4 md-mb-25">
 								<div class="about__one-left-image wow fadeInLeft" data-wow-delay=".4s">
 									<img class="md_img_full" src="{% static 'a2.jpg'%}" alt="image">
-									<div class="video video-pulse">
-										<a class="video-popup" href="https://www.youtube.com/watch?v=-3Mr8_NBuAY"><i class="fas fa-play"></i></a>
-									</div>
+									 
 								</div>
 							</div>
 							<div class="col-md-8 pl-50 xl-pl-10">
 								<div class="about__one-left-list">
 									<div class="about__one-left-list-item wow fadeInUp" data-wow-delay=".3s">
 										<div class="about__one-left-list-item-content">
-											<h4>Keyfiyyət, etibarlılıq və mükəmməllik – bizim əsas prinsiplərimizdir!</h4>
-											<p>Biz Premium Destiny Construction olaraq, inşaat və dizayn sahəsində geniş xidmət spektri təqdim edirik. Dizayn, smeta, planlama, şüşələnmə, fasad işləri, landşaft və bütün növ təmir-tikinti xidmətləri sahəsində peşəkar komandamızla sizə keyfiyyətli və innovativ həllər təklif edirik.</p>
+											<h4>Haqqımızda</h4>
+											<p>
+												Premium Destiny Construction olaraq, tikinti
+sektorunda 13 illik təcrübəmizlə xidmət edirik.
+Keyfiyyət, etibarlılıq və innovasiya prinsiplərinə sadiq
+qalaraq, müştərilərimizin ehtiyaclarına uyğun geniş
+çeşidli tikinti həlləri təklif edirik. Fasad örtük
+sistemlərindən tutmuş, tikinti , təmir, qapı ve pəncərə
+sistemləri, hər sahədə peşəkar və müasir həllərimizlə
+xidmətinizdəyik.
+
+											</p>
 										</div>
 									</div>
 
@@ -329,19 +392,7 @@
 	</div>
 	<!-- Services Area End -->
 	<!-- Video Area Start -->
-	<div class="video__area" style="background-image: url({% static 'a3.png'%});">
-		<div class="container">
-			<div class="row">
-				<div class="col-xl-12">
-					<div class="video__area-icon item_bounce">
-						<div class="video video-pulse">
-							<a class="video-popup" href="https://www.youtube.com/watch?v=-3Mr8_NBuAY"><i class="fas fa-play"></i></a>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
+ 
 	<!-- Video Area End -->
 	<!-- Why Choose US Start -->
 	<div class="choose__us section-padding">
@@ -360,33 +411,48 @@
 					<div class="choose__us-right ml-30 xl-ml-0">
 						<div class="choose__us-right-title mb-40">
 							<span class="subtitle wow fadeInLeft" data-wow-delay=".4s">NİYƏ BİZ?</span>
-							<h2 class="title_split_anim mb-30">Prinsiplərimiz</h2>
+							<h2 class="title_split_anim mb-30">BİZİM İŞ
+								PRİNSİPLƏRİMİZ</h2>
 							<p class="wow fadeInUp" data-wow-delay=".4s">Biz keyfiyyət, etibarlılıq və peşəkarlıq prinsiplərinə əsaslanaraq, tikinti və təmir sahəsində lider şirkətlərdən biriyik. Müştərilərimizə müasir dizaynlar, innovativ həllər və yüksək keyfiyyətli materiallar təqdim edirik.</p>
 						</div>
 						<div class="choose__us-right-skill wow fadeInUp" data-wow-delay=".7s">
 							<div class="skill__area-item">
 								<div class="skill__area-item-content">
-									<h6><strong>Peşəkar Komanda</strong> – Təcrübəli mühəndislər və ustalar</h6>
+									<h6><strong>Planlaşdırma</strong> – Tikinti layihələrinin uğurla
+										başlaması üçün dəqiq və detallı planlaşdırma
+										mərhələsi.</h6>
 									<span class="skill__area-item-count"><span class=""></span></span>
 								</div>
 
 								<div class="skill__area-item-content" style="margin-top:8px">
-									<h6><strong>Keyfiyyətə Zəmanət</strong> – Yüksək standartlara uyğun tikinti və təmir</h6>
+									<h6><strong>Layihələndirmə</strong> – Müasir və funksional
+										dizaynlarla tikinti layihələrinin
+										planlaşdırılması.
+										</h6>
 									<span class="skill__area-item-count"><span class=""></span></span>
 								</div>
 
 								<div class="skill__area-item-content" style="margin-top:8px">
-									<h6><strong>Vaxtında Təslimat</strong> – Layihələrin sürətli və dəqiq icrası</h6>
+									<h6><strong>Təchizat</strong> – Tikinti prosesində istifadə olunan
+										yüksək keyfiyyətli materialların təmin
+										edilməsi.
+										</h6>
 									<span class="skill__area-item-count"><span class=""></span></span>
 								</div>
 
 								<div class="skill__area-item-content" style="margin-top:8px">
-									<h6><strong>Müştəri Məmnuniyyəti</strong> – Sizin istəklərinizi ön planda tuturuq</h6>
+									<h6><strong>İnşaat və Tikinti</strong> - Peşəkar komanda
+										tərəfindən layihələrin mükəmməl şəkildə
+										icra edilməsi.
+										</h6>
 									<span class="skill__area-item-count"><span class=""></span></span>
 								</div>
 
 								<div class="skill__area-item-content" style="margin-top:8px">
-									<h6><strong>İnnovativ Həllər</strong> – Ən son texnologiya və trendlərdən istifadə</h6>
+									<h6><strong>Təqdimat</strong> – Hazır layihənin təhvil verilməsi və
+										müştəri məmnuniyyətinin təmin edilməsi,
+										həmçinin layihənin uzunmüddətli istifadəsi
+										üçün dəstək və texniki xidmət.</h6>
 									<span class="skill__area-item-count"><span class=""></span></span>
 								</div>
 

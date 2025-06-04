@@ -3531,6 +3531,7 @@ p {
 .vertical-menu ul li .sub-menu li a {
   font-size: 16px;
   line-height: 26px;
+  padding-right: 23px;
 }
 
 .menu__bar {
@@ -3553,7 +3554,7 @@ p {
   z-index: 9999;
   transition: 0.5s;
   transform: translateX(-100%);
-  padding: 40px;
+  padding: 20px;
   background: var(--color-1);
 }
 .menu__bar-popup.show {

@@ -131,7 +131,7 @@
 				</div>
 				<div class="header__area-menubar-center">
 					<div class="header__area-menubar-center-menu">
-                     <ul id="mobilemenu">
+						<ul id="mobilemenu">
                             <li class=""><a href="{% url 'home'%}">Ana SƏHİFƏ</a>
 
                             </li>
@@ -139,32 +139,87 @@
 
 							</li>
 							<li class="menu-item-has-children"><a href="{% url 'xidmetler'%}">XİDMƏTLƏR</a>
-                                <ul class="sub-menu">
-									<li  class="menu-item-has-children">
-
-										<ul class="sub-menu">
-											{% for k in kxidmetler %}
-											<li><a href="{% url 'kxidmetler' %}">{{k.name}}</a></li>
-											{% endfor%}
-										</ul>
-
-												<a href="{% url 'kxidmetler'%}">Korporativ Xidmətlər</a></li>
-
-
-									{% for x in xidmetler %}
-											<li {% if x.sub_categories.first %} class="menu-item-has-children"{% endif%}>
-												{% if x.sub_categories.first%}
-										<ul class="sub-menu">
-											{% for s in x.sub_categories.all %}
-											<li><a href="{% url 'sub_category' s.id%}">{{s.name}}</a></li>
-											{% endfor%}
-										</ul>
-												{% endif%}
-												<a href="{% url 'xidmetlerdetail' x.id%}">{{x.name}}</a></li>
-
-									{% endfor%}
-
-										</ul>
+                                <ul class="sub-menu wide-menu">
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">BETON VƏ YAPI İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Betonun Qarışdırılması və Dökülməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Plitələrin Döşənməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Bazasının Hazırlanması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Armaturun Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Təmiri və Yenidənqurma</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Qatlarının Təmiri və Bərpası</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Lövhələrin Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Divarların Tikilməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Beton Dəmir Konstruksiyalarının Hazırlanması</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">FASAD VƏ XARİCİ İŞLƏR</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Seramik və Təbii Daş Fasad Örtükləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Kompozit və Metal Fasad Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Alüminium Fasad Sistemi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Fasad Örtükləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Havalandırılan Fasadlar</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">PƏNCƏRƏ VƏ QAPI SİSTEMLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">PVC və Alüminium</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">İzolyasiya olunmuş və Yanğına davamlı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sürgülü və Cam Balkon Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Hebeschiebe Sürgülü Sistemləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Ara Kəsmələri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Şüşə Tavan Sistemləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">TİKİNTİ VƏ YENİDƏNQURMA İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Divar və Tavan Təmir İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sənaye və Kommersiya Binalarının Təmiri və Tikintisi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sahə Planlaşdırılması və Podratçı İşləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">DAXİLİ TƏMİR İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Laminat və Parket Döşənməsi</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Keramika və Kafel Döşəmələri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Divar Kağızlarının Vurulması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Boya İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Alçıpan Tavanların Montajı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Asma Tavanlar və Dartma Tavanlar</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">İSTİLİK, ELEKTRİK VƏ SANTEXNİKA İŞLƏRİ</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">İstilik və Soyutma Sistemlərinin Quraşdırılması</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Elektrik İşləri</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Santexnika İşləri</a></li>
+                                        </ul>
+                                    </li>
+                                    
+                                    <li class="menu-item-has-children">
+                                        <a href="{% url 'xidmetler'%}">ƏLAVƏ XİDMƏTLƏR</a>
+                                        <ul class="sub-menu">
+                                            <li><a href="{% url 'xidmetler'%}">Metal Konstruksiyalar və Məhəccərlər</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Sənaye Qapıları və Dəmir Qapılar</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Bağçılıq və Yaşıl Zonaların Təşkili</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Süni Şəlalələr və Göllər</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Mebel İstehsalı və Montajı</a></li>
+                                            <li><a href="{% url 'xidmetler'%}">Xüsusi İntyer Dizaynı</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
                             </li>
                             <li class=""><a href="{% url 'portfolio' %}">İŞLƏRİMİZ</a>
 
